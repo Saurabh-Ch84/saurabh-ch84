@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### A passionate Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh-Ch84&label=Profile views&color=0e75b6&style=flat" alt="Saurabh-Ch84" /> </p>
-
 - 🔭 I'm currently working on **React Native**
 
 - 🌱 I'm currently learning **Redis and Postgres**
