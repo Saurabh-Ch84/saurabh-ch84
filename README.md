@@ -30,13 +30,13 @@
   <br>
 
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" alt="Languages" />
 
   <h3>Frontend & Mobile</h3>
   <img src="https://skillicons.dev/icons?i=html,css,react,androidstudio,electron&theme=dark" alt="Frontend" />
 
   <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mongodb,mysql&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql&theme=dark" alt="Backend" />
 
   <h3>Tools & Platform</h3>
   <img src="https://skillicons.dev/icons?i=git,linux,postman,vite,docker&theme=dark" alt="Tools" />
